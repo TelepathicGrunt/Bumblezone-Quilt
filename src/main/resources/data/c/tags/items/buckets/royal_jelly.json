@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "the_bumblezone:royal_jelly_bucket",
-      "required": true
-    }
-  ]
-}
