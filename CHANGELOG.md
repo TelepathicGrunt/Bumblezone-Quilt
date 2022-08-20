@@ -1,8 +1,14 @@
-### **(V.6.1.5 Changes) (1.19 Minecraft)**
+### **(V.6.1.5 Changes maintenance bug-fixes) (1.19 Minecraft)**
 
 ##### Mod Compat:
 Earth2Java's Muddy Pig will only spawn Poppy flowers when it is hit by Pollen Puff while in mud.
  Non-muddy form of this Muddy Pig mob will not spawn flowers anymore when hit by Pollen Puff.
+
+##### Structures:
+Fixed Throne Pillar Honey Compass in Cell Maze structure not locating Throne Pillars.
+
+##### Entities:
+Fixed Bee Queen healing superfast and thus, unkillable.
 
 
 ### **(V.6.1.4 Changes) (1.19 Minecraft)**

@@ -312,7 +312,7 @@ public class BeeQueenEntity extends Animal implements NeutralMob {
             poseTicks++;
         }
 
-        if (this.getAge() % 200 == 0) {
+        if (this.getLevel().getGameTime() % 200 == 0) {
             this.heal(1);
         }
 
